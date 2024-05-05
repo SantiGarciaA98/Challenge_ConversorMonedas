@@ -1,6 +1,6 @@
 <h1 align="center"> Challenge Alura - Conversor de Monedas </h1>
-<img src = "https://img.shields.io/badge/status-completed-green">
-<img src = "https://img.shields.io/badge/Author-Santiago%20Garcia-orange">
+<h3><img src = "https://img.shields.io/badge/status-completed-green">
+<img src = "https://img.shields.io/badge/Author-Santiago%20Garcia-orange"></h3>
 
 ![Conversor Monedas](https://github.com/SantiGarciaA98/Challenge_ConversorMonedas/assets/91978459/93221e70-3b8c-4263-8a65-588954f41dde)
 
