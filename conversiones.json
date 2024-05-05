@@ -1,0 +1,18 @@
+[
+  {
+    "Base": "USD",
+    "Target": "CLP",
+    "Tasa": 960.751,
+    "ConversionTotal": 48037.55,
+    "CantidadUsuario": 50.0,
+    "Fecha": "2024-05-05"
+  },
+  {
+    "Base": "ARS",
+    "Target": "USD",
+    "Tasa": 0.001156,
+    "ConversionTotal": 1.156,
+    "CantidadUsuario": 1000.0,
+    "Fecha": "2024-05-05"
+  }
+]
