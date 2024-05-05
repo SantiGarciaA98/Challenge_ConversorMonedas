@@ -8,5 +8,9 @@
 <p>El programa realizado en el repositorio tiene como propósito realizar la conversión de monedas con ayuda de la API Exchange Rate y con ayuda de unos datos ingresados por el usuario.</p>
 
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: Hacer conversión entre las monedas USD, ARS, CLP y COP.- `Funcionalidad 2`: Solicitar al usuario que tipo de conversión desea realizar.-`Funcionalidad 3`: Solicitar al usuario la cantidad que desea convertir.- `Funcionalidad 4`: Mostrar el historial de conversiones que ha realizado el usuario.- `Funcionalidad 5`: Mostrar la fecha del momento en el que se realizó la conversión.
+- `Funcionalidad 1`: Hacer conversión entre las monedas USD, ARS, CLP y COP.
+- `Funcionalidad 2`: Solicitar al usuario que tipo de conversión desea realizar.
+- `Funcionalidad 3`: Solicitar al usuario la cantidad que desea convertir.
+- `Funcionalidad 4`: Mostrar el historial de conversiones que ha realizado el usuario.
+- `Funcionalidad 5`: Mostrar la fecha del momento en el que se realizó la conversión.
  
