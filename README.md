@@ -13,4 +13,7 @@
 - `Funcionalidad 3`: Solicitar al usuario la cantidad que desea convertir.
 - `Funcionalidad 4`: Mostrar el historial de conversiones que ha realizado el usuario.
 - `Funcionalidad 5`: Mostrar la fecha del momento en el que se realizó la conversión.
- 
+
+## :checkered_flag:Video funcionalidad
+https://github.com/SantiGarciaA98/Challenge_ConversorMonedas/assets/91978459/9ea0822b-c28a-4f19-bccc-46b2666f631e
+
